@@ -1,3 +1,13 @@
+
+#installation
+`$ git clone git@github.com:harrywynnwill/string-calculator-kata-java.git`
+
+`$ cd string-calculator-kata-java`
+
+`$ bundle install`
+
+`$ rspec`
+
 #String Calculator
 The following is a TDD Kata- an exercise in coding, refactoring and test-first, that you should apply daily for at least 15 minutes (I do 30).
 
